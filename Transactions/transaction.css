@@ -1,0 +1,49 @@
+body{
+    overflow-x: hidden;
+    height: 100vh;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.Bank{
+    height: 500px;
+    width: 600px;
+    background-color: orange;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+
+.input[type1]{
+
+    height:200px;
+    width: 10vw;
+   
+
+}
+.buttons button{
+    width: 100px; 
+    height:30px;
+}
+.Details{
+    margin-top: 150px;
+    margin-left: 500px;
+}
+
+.butindex12{
+   
+   background-color: blueviolet;
+   height: 800px;
+
+}
+.butindex12 button{
+    background-color: aqua;
+    height: 350px;
+    width: 350px;
+    margin: 70px;
+    margin-top: 250px;
+}

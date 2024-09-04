@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:   white;
+    
+    color: green;
+   
+    overflow-x: hidden;
+}
+
+.column {
+    float: left;
+    width: 20%;
+    padding: 35px; 
+    border: 2px solid blue;
+    border-left: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.filter{
+    width: 100px;
+    height: 100px;
+}
