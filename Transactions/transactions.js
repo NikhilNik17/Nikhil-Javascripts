@@ -86,3 +86,10 @@ function shopp(){
   }
 
 }
+function apical(){
+  {
+    window.open("./API Calling/api.html");
+  }
+
+}
+
